@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Daniel Aston, a Software Engineer from Surreywith a Degree in Computer Science from Coventry University and a Diploma from Brainstation<br><br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I make cool website, play DnD and read too much</p>
+<p align="left">I'm Daniel Aston, a Software Engineer from Surrey with a Degree in Computer Science from Coventry University and a Diploma from Brainstation<br><br>- 📚 I'm currently learning TypeScript<br>- ⚡ In my free time I make cool website, play DnD and read too much</p>
 
 ###
 
